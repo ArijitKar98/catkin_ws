@@ -1,0 +1,8 @@
+prefix=/home/arijit/AK_Progs/catkin_ws/devel
+
+Name: arijitkar98
+Description: Description of arijitkar98
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/arijit/AK_Progs/catkin_ws/devel/lib 
+Requires: roscpp std_msgs

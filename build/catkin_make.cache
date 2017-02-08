@@ -1,0 +1,2 @@
+arijitkar98
+-DCATKIN_DEVEL_PREFIX=/home/arijit/AK_Progs/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arijit/AK_Progs/catkin_ws/install -G Unix Makefiles
